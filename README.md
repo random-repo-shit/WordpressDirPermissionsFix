@@ -12,3 +12,5 @@ This is only a problem on shared hosting platforms, if you are using this script
 If so, how did you get sudo and root? We do not expect answers.
 #
 <img src="https://2.bp.blogspot.com/-C8uqt2a5ee8/V3Y0R_MeB5I/AAAAAAAAKNY/KrzwVxUu6UsrOlU4w776R891fAkc-6QEwCLcB/s1600/Bash-Final.jpg" height ="200" width="250"></img>
+#
+<img src=http://fontslogo.com/wp-content/uploads/2013/02/wordpress-logo.jpg"></img>
