@@ -3,9 +3,9 @@ echo "Warning: Enter Your Wordpress path in proper format as Example shown below
 echo "Example: var/www/html/wordpress/"
 echo "---------------------------------------------------"
 read path
-echo "enter permission type d (default is 755)"
+echo "enter permission type 755 (default is 755)"
 read perm1
-echo "enter permission type f (default is 644)"
+echo "enter permission type 644 (default is 644)"
 read perm2
 sudo chown -R www-data:www-data ../../../../../../../../$path
 sudo find /$path -type d -exec chmod $perm1 {} \;
